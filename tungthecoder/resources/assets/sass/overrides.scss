@@ -1,0 +1,15 @@
+.navbar-item {
+    
+    &.is-tab {
+    border-bottom: 3px solid transparent;
+    }
+    
+}
+
+a.has-text-grey-light:hover {
+    color: grey !important;
+}
+
+.table__wrapper {
+    overflow-x: auto;
+}

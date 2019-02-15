@@ -1,0 +1,46 @@
+
+// Body
+$body-background-color: #f8f8f8;
+
+
+// Brands
+$brand-primary: #3097D1;
+$brand-info: #8eb4cb;
+$brand-success: #2ab27b;
+$brand-warning: #cbb956;
+$brand-danger: #bf5329;
+
+
+$primary: #c57d59;
+ 	
+// Typography
+$icon-font-path: "~bootstrap-sass/assets/fonts/bootstrap/";
+$font-family-sans-serif: "Raleway", sans-serif;
+$font-size-base: 14px;
+$line-height-base: 1.6;
+$text-color: #636b6f;
+
+// Navbar
+$navbar-default-bg: #fff;
+$navbar-tab-hover-background-color: hsl(0, 0%, 96%);
+$navbar-tab-hover-border-bottom-color: #BF714A;
+$navbar-dropdown-offset: 0;
+$navbar-dropdown-boxed-radius: 10px;
+$navbar-item-hover-color: #c57d59;
+$navbar-tab-active-border-bottom-color: #c57d59;
+$navbar-tab-active-color: #93230a;
+$navbar-dropdown-arrow: #c57d59;
+$navbar-dropdown-item-active-color:#93230a;
+// Buttons
+$btn-default-color: $text-color;
+
+// Inputs
+$input-border: lighten($text-color, 40%);
+$input-border-focus: lighten($brand-primary, 25%);
+$input-color-placeholder: lighten($text-color, 30%);
+
+// Panels
+$panel-default-heading-bg: #fff;
+
+// Footer
+$footer-background-color: #fff;	
