@@ -171,7 +171,7 @@
                         <div class="overlay">
                             <h2 class="m-b-20">TCoder - tungthecoder</h2>
                             <p class="has-text-white">A porforlio website with a custom built CMS.</p>
-                            <a class="info" href="https://www.tungthecoder.com/home">Visit</a>
+                            <a class="info" href="https://www.tungthecoder.dev/home">Visit</a>
                         </div>
                     </div>
                 </div>
@@ -185,7 +185,7 @@
                             <p class="is-size-7">*Login as guest/guest to see my custom CMS Admin Panel*</p>
                         </div>
                     </div>
-                    <a class="button is-info is-outlined" href="https://www.tungthecoder.com/home">Visit Site</a>
+                    <a class="button is-info is-outlined" href="https://www.tungthecoder.dev/home">Visit Site</a>
                     <a class="button" href="https://github.com/TungTNg/tungthecoder">
                         <span class="icon">
                             <i class="fab fa-github"></i>
@@ -202,7 +202,7 @@
                         <div class="overlay">
                             <h2 class="m-b-20">Laravel Blog</h2>
                             <p class="has-text-white">A blog with custom-built CMS for blog posts.</p>
-                            <a class="info" href="https://tungthecoder.com/laravelBlog/posts">Visit</a>
+                            <a class="info" href="https://tungthecoder.dev/laravelBlog/posts">Visit</a>
                         </div>
                     </div>
                 </div>
@@ -216,7 +216,7 @@
                             <p class="is-size-7">*Please delete posts after create/edit them (leave the first 4)*</p>
                         </div>
                     </div>
-                    <a class="button is-info is-outlined" href="https://tungthecoder.com/laravelBlog/posts">Visit Site</a>
+                    <a class="button is-info is-outlined" href="https://tungthecoder.dev/laravelBlog/posts">Visit Site</a>
                     <a class="button" href="https://github.com/TungTNg/laravelBlog">
                         <span class="icon">
                             <i class="fab fa-github"></i>
@@ -233,7 +233,7 @@
                         <div class="overlay">
                             <h2 class="m-b-20">Go Places</h2>
                             <p class="has-text-white">A Yelp clone with custom-built CMS.</p>
-                            <a class="info" href="https://tungthecoder.com/goPlaces">Visit</a>
+                            <a class="info" href="https://tungthecoder.dev/goPlaces">Visit</a>
                         </div>
                     </div>
                 </div>
@@ -247,7 +247,7 @@
                             <p class="is-size-7">*Feel free to add more attractions*</p>
                         </div>
                     </div>
-                    <a class="button is-info is-outlined" href="https://tungthecoder.com/goPlaces">Visit Site</a>
+                    <a class="button is-info is-outlined" href="https://tungthecoder.dev/goPlaces">Visit Site</a>
                     <a class="button" href="https://github.com/TungTNg/goPlaces">
                         <span class="icon">
                             <i class="fab fa-github"></i>

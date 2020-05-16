@@ -1,7 +1,7 @@
 <footer class="box m-t-25">
     <div class="columns content has-text-centered is-vcentered">
         <div class="column is-offset-1 is-half is-mobile has-text-right-desktop">
-            Copyright &copy; 2018 - {{ date('Y') }} <strong class="has-text-primary">TCoder - tungthecoder</strong> by <a href="https://tungthecoder.com">Tung Nguyen</a>.
+            Copyright &copy; 2018 - {{ date('Y') }} <strong class="has-text-primary">TCoder - tungthecoder</strong> by <a href="https://tungthecoder.dev">Tung Nguyen</a>.
         </div>
         <div class="column is-5 is-half is-mobile has-text-left-desktop iconFooter">
             <span class="icon">

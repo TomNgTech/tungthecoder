@@ -31,6 +31,11 @@ class ContactController extends Controller
 			$message->to('mecer80@gmail.com');
 			$message->subject($data['subject']);
 		});
+		Mail::send('emails.noreplyContact', $data, function($message) use ($data){
+			$message->from('no-reply@tungthecoder.dev', 'Tung The Coder [no-reply]');
+			$message->to($data['email']);
+			$message->subject($data['name'] . ', thank you for your valuable message!');
+		});
 		Session::flash('successContact', 'Your email was successfully sent!<br>I\'ll try to get back to you as soon as possible, please be patient!');
 		return redirect('contact');
 	}
