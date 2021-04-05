@@ -190,6 +190,7 @@ transition-delay:.2s;
         }
     }
 }
+
 .section {
     &.skills {
         margin-top: -17rem;
@@ -209,6 +210,12 @@ transition-delay:.2s;
     }
     &.service {
         margin-top: -12rem;
+    }
+}
+
+.columns {
+    &.project {
+        margin-bottom: 1.75rem;
     }
 }
 

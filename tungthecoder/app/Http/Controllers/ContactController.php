@@ -32,7 +32,7 @@ class ContactController extends Controller
 			$message->subject($data['subject']);
 		});
 		Mail::send('emails.noreplyContact', $data, function($message) use ($data){
-			$message->from('no-reply@tungthecoder.dev', 'Tung The Coder [no-reply]');
+			$message->from('no-reply@tungthecoder.dev', 'TungTheCoder[no-reply]');
 			$message->to($data['email']);
 			$message->subject($data['name'] . ', thank you for your valuable message!');
 		});

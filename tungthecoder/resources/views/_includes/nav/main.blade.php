@@ -28,8 +28,8 @@
             <div class="navbar-start">
                 <a href="/home" class="navbar-item is-tab is-active">
                             Home
-                        </a>
-                        
+                </a>
+<!--                        
                 <a href="/home" class="navbar-item is-tab">
                             Blog
                         </a>
@@ -40,11 +40,11 @@
                         
                 <a href="/home" class="navbar-item is-tab">
                             Pricing
-                        </a>
-                        
+                </a>
+-->                        
                 <a href="/contact" class="navbar-item is-tab">
                             Contact
-                        </a>
+                </a>
 
             </div>
 

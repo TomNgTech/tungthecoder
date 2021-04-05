@@ -9,7 +9,7 @@
                 <h1 class="title has-text-centered">Log In</h1>
                 <div class="message is-primary has-text-centered">
                     <div class="message-body">
-                        <p>You can also login using credential guest/guest to visit my custom-built CMS Admin Panel.</p>
+                        <p>You can login using guest account (email: "guest"/ password: "guest") to visit my custom-built CMS Admin Panel.</p>
                         <p class="is-size-6">*Some functions will be DENIED for guest account!!!*</p>
                         <p class="is-size-6"><a class="button is-rounded is-small is-outlined is-info" href="/contact">Contact Me</a> 
                         if you're a Recruiter and need full access!</p>

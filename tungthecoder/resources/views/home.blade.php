@@ -34,10 +34,10 @@
 
                 <div class="introHome is-divider-vertical"></div>
                 <div class="column is-6 introHome introColumn">
-                    <h1 class="title">Hi there, <span class="shadow is-warning">I'm Tung</span>. Nice to meet you!</h1>
+                    <h1 class="title">Hi there, <span class="shadow is-warning">I'm Tung</span>, your avid coding bud!</h1>
                     <p class="is-size-5">I’m a <span class="shadow is-turquoise">Full Stack Web Developer</span> based in Seattle, WA.</p>
                     <p class="is-size-5">Since 2018, I’ve been helping <span class="shadow is-orange">many clients</span> to achieve <span class="shadow is-black">innovative things</span> on the web.</p>
-                    <p class="is-size-5">I mainly work with <span class="shadow is-purple">modern tools</span> and <span class="shadow is-purple">frameworks</span> such as <span class="shadow is-danger">Wordpress</span>, <span class="shadow is-danger">Laravel</span>, <span class="shadow is-danger">Node/ExpressJS</span>, <span class="shadow is-danger">React</span>, <span class="shadow is-danger">Bulma/Bootstrap</span>, <span class="shadow is-danger">VueJS</span>….</p>
+                    <p class="is-size-5">I mainly work with <span class="shadow is-purple">modern tools</span> and <span class="shadow is-purple">frameworks</span> such as <span class="shadow is-danger">Wordpress</span>, <span class="shadow is-danger">Laravel</span>, <span class="shadow is-danger">Node/ExpressJS</span>, <span class="shadow is-danger">AngularJS</span>, <span class="shadow is-danger">Bulma/Bootstrap</span>, <span class="shadow is-danger">Spring</span>….</p>
                     <p class="is-size-5">Read more <span class="shadow is-success">about me</span>, or check out a few samples of <span class="shadow is-warning">my projects</span>.</p>
                     <p class="is-size-5">I’m available for <span class="shadow is-turquoise">freelancing</span>, feel free to <span class="shadow is-orange">contact me!</span></p>
                 </div>
@@ -73,7 +73,8 @@
     
     <h2 class="subtitle has-text-white is-size-5-desktop">
         Below are my magical abilities and primary weapons I use while coding.
-        <br><a class="button is-rounded is-primary is-inverted has-text-info m-t-10" href="/tungthecoder/public/download/Tung_Nguyen_-_Resume_-_Full_Stack_Developer.pdf" download>Download My Résumé</a>
+        <br><a class="button is-rounded is-primary is-inverted has-text-info m-t-10" href="/resume.pdf" download>Download My Résumé</a>
+        <a class="button is-rounded is-primary is-inverted has-text-info m-t-10" href="/cover+letter.pdf" download>Download My Cover Letter</a>
     </h2>
     
 
@@ -92,7 +93,7 @@
             <ul>
               <li>Bootstrap</li>
               <li>Bulma</li>
-              <li>React</li>
+              <li>AngularJs</li>
               <li>VueJs</li>
               <li>WordPress (Custom Theme)</li>
             </ul>
@@ -152,7 +153,7 @@
         </div>
         
         <h2 class="subtitle has-text-white is-size-5-desktop">Here are a few of my recent projects. Want to see more?
-        <br><a class="button is-rounded is-primary is-inverted is-small has-text-info m-t-5" href="mailto:mecer80@gmail.com">Email</a> or <a class="button is-rounded is-primary is-inverted is-small has-text-info m-t-5" href="/contact">Contact Me</a></h2>
+        <br><a class="button is-rounded is-primary is-inverted is-small has-text-info m-t-5" href="mailto:tung.nguyen@tungthecoder.dev">Email</a> or <a class="button is-rounded is-primary is-inverted is-small has-text-info m-t-5" href="/contact">Contact Me</a></h2>
     </div>
     
     <div class="hero-body">
@@ -162,7 +163,7 @@
 
 <section class="section project has-text-centered">
     <div class="container is-narrow">
-        <div class="columns">
+        <div class="columns project">
             
             <div class="column card is-one-third">
                 <div class="hoverWrapper">
@@ -256,7 +257,104 @@
                     </a>
                 </div>
             </div>
+
+        </div>
+        
+        <div class="columns project">
             
+            <div class="column card is-one-third">
+                <div class="hoverWrapper">
+                    <div class="hovereffect">
+                        <img class="image is-responsive" src="/tungthecoder/public/images/projectDemos/datingApp_website.png" alt="">
+                        <div class="overlay">
+                            <h2 class="m-b-20">Dating App</h2>
+                            <p class="has-text-white">A dating site with basic registration features.</p>
+                            <a class="info" href="https://tungthecoder.dev/DatingApp/dist/">Visit</a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="card-content">
+                    <h1 class="title has-text-more-red">Dating App</h1>
+                    <h2 class="subtitle"><u>Stacks Used</u></h1>
+                    <div class="message is-primary">
+                        <div class="message-body">
+                            <p>.Net Core, Kestrel Web Server, SQL Lite, Angular, Ngx-Bootstrap</p>
+                            <p class="is-size-7">*You can register as new user or use acct: clara/password*</p>
+                        </div>
+                    </div>
+                    <a class="button is-info is-outlined" href="https://tungthecoder.dev/DatingApp/dist/">Visit Site</a>
+                    <a class="button" href="https://github.com/TungTNg/DatingApp_.NET_Angular7">
+                        <span class="icon">
+                            <i class="fab fa-github"></i>
+                        </span>
+                        <span>Source Code</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="column card is-one-third">
+                <div class="hoverWrapper">
+                    <div class="hovereffect">
+                        <img class="image is-responsive" src="/tungthecoder/public/images/projectDemos/soi_website.png" alt="">
+                        <div class="overlay">
+                            <h2 class="m-b-20">Schedule of Investment</h2>
+                            <p class="has-text-white">An Angular front end that consume an API Endpoint.</p>
+                            <a class="info" href="https://tungthecoder.dev/soiAngular-Bootstrap/dist/">Visit</a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="card-content">
+                    <h1 class="title has-text-more-red">Schedule of Investment</h1>
+                    <h2 class="subtitle"><u>Stacks Used</u></h1>
+                    <div class="message is-primary">
+                        <div class="message-body">
+                            <p>AngularJs, Bootstrap</p>
+                            <p class="is-size-7">*This is a front-end project that consume change-able API Endpoint. Please visit gitHub page for details!*</p>
+                        </div>
+                    </div>
+                    <a class="button is-info is-outlined" href="https://tungthecoder.dev/soiAngular-Bootstrap/dist/">Visit Site</a>
+                    <a class="button" href="https://github.com/TungTNg/soiAngular-Bootstrap">
+                        <span class="icon">
+                            <i class="fab fa-github"></i>
+                        </span>
+                        <span>Source Code</span>
+                    </a>
+                </div>
+            </div>
+            
+            <div class="column card is-one-third">
+                <div class="hoverWrapper">
+                    <div class="hovereffect">
+                        <img class="image is-responsive" src="/tungthecoder/public/images/projectDemos/portfolio_website.png" alt="">
+                        <div class="overlay">
+                            <h2 class="m-b-20">Investment Portfolio</h2>
+                            <p class="has-text-white">A back-end that collect data and generate json endpoints.</p>
+                            <a class="info" href="https://tungthecoder.dev/portfolioAPI-Express">Visit</a>
+                        </div>
+                    </div>
+                </div>
+            
+                <div class="card-content">
+                    <h1 class="title has-text-more-red">Investment Portfolio</h1>
+                    <h2 class="subtitle"><u>Stacks Used</u></h1>
+                    <div class="message is-primary">
+                        <div class="message-body">
+                            <p>Node/Express.js, Bootstrap</p>
+                            <p class="is-size-7">*This is a mainly back-end project that collect/CRUD data and generate API Endpoints that show data in .json format*</p>
+                        </div>
+                    </div>
+                    <a class="button is-info is-outlined" href="https://tungthecoder.dev/portfolioAPI-Express">Visit Site</a>
+                    <a class="button" href="https://github.com/TungTNg/portfolioAPI-Express">
+                        <span class="icon">
+                            <i class="fab fa-github"></i>
+                        </span>
+                        <span>Source Code</span>
+                    </a>
+                </div>
+            </div>
+
         </div>
     </div>
 </section>
@@ -376,7 +474,8 @@
             </div>
             
             <div class="content m-l-25 m-r-25 p-b-25">
-                <a>#goTung</a>
+                &emsp; Tung is an excellent student who always went above and beyong acing exams/homeworks/projects.
+                <br>&emsp;He constantly came up with good critical thinkings and was willing to help his classmates to better understand the lessons.<br><a>#goTung</a>
               <br>
               <time datetime="2018-10-10">4:00 PM - Oct 10, 2018</time>
             </div>
@@ -477,7 +576,7 @@
         
         <h2 class="subtitle has-text-white is-size-5-desktop has-text-left-mobile">Got more questions? Or simply want to schedule a coffee date with me? ;)
         <p class="m-t-5"><a class="button is-rounded is-primary is-inverted has-text-info" href="/contact">Contact Me</a> here!</p>
-        <p class="m-t-10 is-size-6">(Or text me at <a class="button is-small" href="tel:+1-206-307-1901">(206) 307-1901</a> if this is an urgency!)</p>
+        <p class="m-t-10 is-size-6">(Or text me at <a class="button is-small is-rounded" href="tel:+1-206-307-1901">(206) 307-1901</a> if this is an urgency!)</p>
         </h2>
     </div>
 </div>
